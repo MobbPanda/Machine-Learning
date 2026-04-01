@@ -1,1 +1,7 @@
+# ignora data set
 dataset
+
+# ignora el entorno donde se instalar las dependencias de forma local y todo el cache
+.prueba1
+
+
